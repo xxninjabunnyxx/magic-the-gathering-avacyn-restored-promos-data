@@ -1,0 +1,113 @@
+---
+object: card
+id: bde0dbd9-354d-42b2-83f4-7f8f98c7b4de
+oracle_id: ded0316f-5eed-4a80-91ad-ca236fd16f01
+multiverse_ids: []
+tcgplayer_id: 58194
+cardmarket_id: 254945
+name: Silverblade Paladin
+lang: en
+released_at: '2012-04-28'
+uri: https://api.scryfall.com/cards/bde0dbd9-354d-42b2-83f4-7f8f98c7b4de
+scryfall_uri: https://scryfall.com/card/pavr/36%E2%98%85/silverblade-paladin?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/d/bde0dbd9-354d-42b2-83f4-7f8f98c7b4de.jpg?1662281025
+  normal: https://cards.scryfall.io/normal/front/b/d/bde0dbd9-354d-42b2-83f4-7f8f98c7b4de.jpg?1662281025
+  large: https://cards.scryfall.io/large/front/b/d/bde0dbd9-354d-42b2-83f4-7f8f98c7b4de.jpg?1662281025
+  png: https://cards.scryfall.io/png/front/b/d/bde0dbd9-354d-42b2-83f4-7f8f98c7b4de.png?1662281025
+  art_crop: https://cards.scryfall.io/art_crop/front/b/d/bde0dbd9-354d-42b2-83f4-7f8f98c7b4de.jpg?1662281025
+  border_crop: https://cards.scryfall.io/border_crop/front/b/d/bde0dbd9-354d-42b2-83f4-7f8f98c7b4de.jpg?1662281025
+mana_cost: "{1}{W}{W}"
+cmc: 3.0
+type_line: Creature — Human Knight
+oracle_text: |-
+  Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+  As long as Silverblade Paladin is paired with another creature, both creatures have double strike.
+power: '2'
+toughness: '2'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Soulbond
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: b933d4a1-3d0a-45fb-a73c-a9ae2ba928b0
+set: pavr
+set_name: Avacyn Restored Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/b933d4a1-3d0a-45fb-a73c-a9ae2ba928b0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apavr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pavr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/bde0dbd9-354d-42b2-83f4-7f8f98c7b4de/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aded0316f-5eed-4a80-91ad-ca236fd16f01&unique=prints
+collector_number: 36★
+digital: false
+rarity: rare
+watermark: colorpie
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Todd Lockwood
+artist_ids:
+- d0b9f3cc-13fb-42b6-bc43-b034728e5c7b
+illustration_id: d0956608-891c-41be-be6e-8442703933e1
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- buyabox
+edhrec_rank: 5961
+penny_rank: 2430
+prices:
+  usd: 
+  usd_foil: '1.61'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.99'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Silverblade+Paladin&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Silverblade+Paladin&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Silverblade+Paladin
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/58194?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Silverblade+Paladin&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Silverblade+Paladin&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
